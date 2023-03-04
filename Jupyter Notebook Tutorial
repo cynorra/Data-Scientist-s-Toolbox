@@ -1,0 +1,62 @@
+Adding Headings using Markdown
+
+# Heading1
+
+## Heading2
+
+### Heading3
+
+
+
+
+
+Format Text (Bold, Italic)
+
+Bold ** TEXT **
+Italic * TEXT *
+
+
+
+
+
+
+Add Block quotes
+
+>Blockquated Text Starts with ('>')
+
+
+
+
+Add Ordered and Unordered List Items
+<ol> </ol>
+<li> </li>
+
+
+
+
+
+Add Horizontal Line
+Use the three ‘- – -’ hyphens to add a horizontal line by using the markdown. Or you can also use the <hr> tag to add a horizontal line.
+
+
+
+
+
+
+
+Add Code Blocks
+use `var a=8` (altgr + virgül)
+
+
+
+Adding Tables
+
+| Id | Name     | Marks |
+
+|--- |----------| ------|
+
+| 01 | Samreena | 200   |
+
+| 02 | Asif     | 300   |
+
+| 03 | Mirha    | 150   |
